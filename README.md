@@ -1,21 +1,20 @@
-<strong>Chris Underwood Web Development Portfolio</strong>
-
-Motivation
-This is a responsive website built to host my web development portfolio. This is the second portfolio site that I have made, the first version was not responsive. I made this portfolio site as part of an ongoing project with the UCSD web development bootcamp program. This was also an attempt to use Twitter Boostrap's grid system and responsive classes to reduce the use of custom CSS.
-
-Build status
+<h1>Chris Underwood Web Development Portfolio</h1>
+ 
+<strong>Motivation</strong>
+ 
+This is a responsive website built to host my web development portfolio. This is the second portfolio site that I have made, the first version was not responsive. I made this portfolio site as part of an ongoing project with the UCSD web development bootcamp program. This was also an attempt to use Twitter Bootstrap's grid system and responsive classes to reduce the use of custom CSS.
+ 
+<strong>Build status</strong>
+ 
 Build status is complete, however there are some things that need to be improved upon.
+ 
+<strong>Code style</strong>
+ 
+Standard HTML/CSS and Bootstrap.
+ 
+<strong>Screenshots</strong>
 
-Code style
-Standard HTML/CSS . Also uses Bootsrap.
-
-Screenshots
-Include logo/demo screenshot etc.
-
-Tech/framework used
-Ex. -
-
-Code Example
+<strong>Code Example</strong>
 
 Here is an example of how I used a mixture of Bootstrap and my own CSS style for this website:
 
@@ -40,5 +39,6 @@ Here is an example of how I used a mixture of Bootstrap and my own CSS style for
       </nav>
     </header> -->
 
-Installation
+<strong>Installation</strong>
+
 No installation necessary. Project is hosted here: https://uchrissd.github.io/chrisunderwood.github.io/
