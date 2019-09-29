@@ -1,0 +1,85 @@
+/**
+* CSS styling for responsiveweb development portfolio site
+**/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 650px) {
+  .item {
+    width: 100% !important;
+  }
+}
+.menu-bar {
+  background-color: white;
+  border-bottom: solid lightgray;
+}
+
+.name {
+  background-color: #4aaaa5;
+  color: white;
+  margin-left: 50px;
+  margin-top: -10px;
+  font-size: 30px;
+  padding: 20px;
+  margin-bottom: -10px;
+}
+
+.portfolio-list {
+  color: lightgray;
+  list-style-type: none;
+  font-size: 24px;
+}
+
+.a {
+  text-decoration-style: none;
+  color: black;
+}
+
+.content-box {
+  background: #ffffff;
+  border: 1px solid #dddddd;
+  border-width: 1px;
+  margin: 5%;
+  padding: 5%;
+}
+
+.footer {
+  width: 100%;
+  background-color: #666666;
+  border-top: 10px solid #4aaaa5;
+  padding: 20px;
+  color: white;
+}
+
+.waves-background {
+  background-image: url("../images/white-waves.png");
+}
+
+.form {
+  color: lightgray;
+  font-family: sans-serif;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.portfolio-image {
+  width: 200px;
+  height: 200px;
+  padding: 2px;
+}
+
+.portfolio-title {
+  color: #4aaaa5;
+}
+
+.portfolio-items {
+  background-color: #4aaaa5;
+  color: white;
+  width: 200px;
+  text-align: center;
+}

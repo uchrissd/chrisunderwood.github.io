@@ -1,2 +1,2 @@
-# chrisunderwood.github.io
-Web development portfolio
+# homework-two
+Second attempt at responsive portfolio 
