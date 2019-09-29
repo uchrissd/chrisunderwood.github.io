@@ -1,4 +1,4 @@
-#Chris Underwood Web Development Portfolio
+<strong>Chris Underwood Web Development Portfolio</strong>
 
 Motivation
 This is a responsive website built to host my web development portfolio. This is the second portfolio site that I have made, the first version was not responsive. I made this portfolio site as part of an ongoing project with the UCSD web development bootcamp program. This was also an attempt to use Twitter Boostrap's grid system and responsive classes to reduce the use of custom CSS.
