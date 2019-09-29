@@ -1,8 +1,43 @@
-# homework-two
-This is a repo of a responsive version of my portfolio site. This site uses a combination of Bootstrap and my own custom CSS to make the three pages of this site responsive to different screen sizes. Each page uses the Bootstrap grid system. 
+#Chris Underwood Web Development Portfolio
 
+Motivation
+This is a responsive website built to host my web development portfolio. This is the second portfolio site that I have made, the first version was not responsive. I made this portfolio site as part of an ongoing project with the UCSD web development bootcamp program. This was also an attempt to use Twitter Boostrap's grid system and responsive classes to reduce the use of custom CSS.
 
-I failed to achieve the level of responsiveness I was going for. I assume I should have used more media queries or found a better way to lay out the grid on the portfolio page. I clearly need more practice in order to master the Bootstrap grid system. 
+Build status
+Build status is complete, however there are some things that need to be improved upon.
 
+Code style
+Standard HTML/CSS . Also uses Bootsrap.
 
+Screenshots
+Include logo/demo screenshot etc.
 
+Tech/framework used
+Ex. -
+
+Code Example
+
+Here is an example of how I used a mixture of Bootstrap and my own CSS style for this website:
+
+   <header>
+      <!--This navbar uses a combination of bootstrap and custom style to respon to smaller screens.-->
+      <nav class="navbar menu-bar">
+        <div class="name">
+          <h1>Christopher Underwood</h1>
+        </div>
+        <ul class="d-flex portfolio-list">
+          <li style="padding-left: 10px;">
+            <a href="index.html" class="text-secondary">About |</a>
+          </li>
+          <li style="padding-left: 10px;">
+            <a href="portfolio.html" class="text-secondary">Portfolio |</a>
+          </li>
+          <li style="padding-left: 10px;">
+            <a href="contact.html" class="text-secondary"> Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+Installation
+No installation necessary. Project is hosted here: https://uchrissd.github.io/chrisunderwood.github.io/
