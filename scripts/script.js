@@ -27,7 +27,7 @@ generateEl.addEventListener("click", function(event) {
 //The keys in this object contain the possible characters that can be used in the password.
 let passwordCharacters = [
   {
-    description: "Do you want uppder case letters in your password?",
+    description: "Do you want upper case letters in your password?",
     chars: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
   },
   {
